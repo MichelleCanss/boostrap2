@@ -1,0 +1,57 @@
+.navbar-brand{
+    margin-right: auto;
+}
+
+
+.btn.btn{
+    border-color: black;
+    color: black;
+}
+
+.btn-outline-success {
+    --bs-btn-color: white;
+    --bs-btn-border-color: white;
+    --bs-btn-hover-color: white;
+    --bs-btn-hover-bg: white;
+    --bs-btn-hover-border-color: white;
+    --bs-btn-focus-shadow-rgb: 25,135,84;
+    --bs-btn-active-color: white;
+    --bs-btn-active-bg: white;
+    --bs-btn-active-border-color: white;
+    --bs-btn-active-shadow: inset 0 3px 5pxrgba(0, 0, 0, 0.125);
+    --bs-btn-disabled-color: white;
+    --bs-btn-disabled-bg: transparent;
+    --bs-btn-disabled-border-color: white;
+    --bs-gradient: none;
+}
+
+img.d-block.w-100{
+    padding-bottom: 50px;
+}
+
+h5.header1 {
+    font-size: 35px;
+    margin: 0px 0px 35px 0px;
+}
+
+.card-text1{
+    font-size: 100px;
+}
+
+
+/* FOOTER */
+footer {
+	background-color:black;
+	height: 50%;
+  color: white;
+  padding: 15px;
+}
+
+.main1 { 
+  display:flex;
+  margin:0 auto;
+}
+
+a img:hover {
+    color: #fff;
+}
