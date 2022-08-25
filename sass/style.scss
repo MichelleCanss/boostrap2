@@ -1,3 +1,5 @@
+@import "pushup";
+
 .navbar-brand{
     margin-right: auto;
 }
@@ -35,7 +37,7 @@ h5.header1 {
 }
 
 .card-text1{
-    font-size: 100px;
+    font-size: 50px;
 }
 
 
@@ -54,4 +56,16 @@ footer {
 
 a img:hover {
     color: #fff;
+}
+
+.icono{
+    height: auto;
+    width: auto;
+    max-height: 48px;
+    max-width: 48px;
+}
+
+.h1pushup{
+    padding-top: 10px;
+    justify-content: center;
 }

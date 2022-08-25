@@ -1,0 +1,34 @@
+
+
+/* FOOTER */
+footer {
+	background-color:black;
+	height: 50%;
+  color: white;
+  padding: 15px;
+}
+
+.main1 { 
+  display:flex;
+  margin:0 auto;
+}
+
+a img:hover {
+    color: #fff;
+}
+
+.icono{
+    height: auto;
+    width: auto;
+    max-height: 48px;
+    max-width: 48px;
+}
+
+.h1pushup{
+    padding-top: 10px;
+    justify-content: center;
+}
+
+@import "mqfooter";
+
+
